@@ -22,6 +22,8 @@ Dot and Boxes is a classic pen-and-paper game where two players take turns conne
 
 
 
+
+
 ## 🎲 Instructions for Playing
 1. Player 1 is represented by 'X' and Player 2 is represented by 'O'.
 
